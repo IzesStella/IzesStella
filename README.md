@@ -1,16 +1,22 @@
-## Hi there 👋
+## **🌸 Izes Stella**  
+💻 Estudante de Tecnologia em Sistemas para Internet  
+💡 Explorando o mundo do desenvolvimento web  
 
-<!--
-**IzesStella/IzesStella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **Aprimorando habilidades em:** Laravel + Vue.js 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🚀 Stack Principal**  
+🩷 PHP | Vue.js | Laravel | JavaScript | HTML | CSS  
+
+---
+
+### **📫 Conecte-se comigo**  
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/izesstella)  
+[![GitHub](https://img.shields.io/badge/-GitHub-%23E4405F?style=flat-square&logo=github&logoColor=white)](https://github.com/IzesStella)  
+
+---
+
+### **📊 GitHub Stats**  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=IzesStella&show_icons=true&theme=tokyonight&icon_color=E4405F&hide_border=true" width="400px"/>  
+
