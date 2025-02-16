@@ -21,9 +21,9 @@
 
 <p align="center">
   <!-- Card de estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=IzesStella&show_icons=true&theme=tokyonight&icon_color=E4405F&hide_border=true" width="400px"/>
-  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzesStella&show_icons=true&theme=tokyonight&icon_color=E4405F&hide_border=true"/>
+
   <!-- Card de linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzesStella&layout=compact&theme=tokyonight&icon_color=E4405F&hide_border=true" width="400px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzesStella&layout=compact&theme=tokyonight&icon_color=E4405F&hide_border=true"/>
 </p>
 
