@@ -2,18 +2,13 @@
 Estudante de Tecnologia em Sistemas para Internet  
 Explorando o mundo do desenvolvimento web  
 
-**Aprimorando habilidades em:** Laravel + Vue.js  
 
 ---
 
 ### **Stack Principal**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,git,github" />
-</p>
-
-<p align="center">
-🩷 PHP • Laravel • Vue.js • JavaScript • HTML • CSS
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css" />
 </p>
 
 ---
@@ -23,9 +18,6 @@ Explorando o mundo do desenvolvimento web
 <p align="center">
   <a href="https://www.instagram.com/izesstella" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/IzesStella" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
@@ -39,4 +31,5 @@ Explorando o mundo do desenvolvimento web
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?
+  <img src="https://streak-stats.demolab.com?user=IzesStella&theme=tokyonight&hide_border=true&background=0d1117&ring=E4405F&fire=E4405F&currStreakLabel=E4405F" alt="GitHub Streak"/>
+</p>
