@@ -1,29 +1,42 @@
-## **🌸 Izes Stella**  
+## 🌸 **Izes Stella**  
 Estudante de Tecnologia em Sistemas para Internet  
 Explorando o mundo do desenvolvimento web  
 
-**Aprimorando habilidades em:** Laravel + Vue.js 
+**Aprimorando habilidades em:** Laravel + Vue.js  
 
 ---
 
-### ** Stack Principal**  
-🩷 PHP | Vue.js | Laravel | JavaScript | HTML | CSS  
-
----
-
-### **Conecte-se comigo**  
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/izesstella)  
-[![GitHub](https://img.shields.io/badge/-GitHub-%23E4405F?style=flat-square&logo=github&logoColor=white)](https://github.com/IzesStella)  
-
----
-
-### **📊 GitHub Stats**
+### **Stack Principal**
 
 <p align="center">
-  <!-- Card de estatísticas gerais -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IzesStella&show_icons=true&theme=tokyonight&icon_color=E4405F&hide_border=true"/>
-
-  <!-- Card de linguagens mais usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzesStella&layout=compact&theme=tokyonight&icon_color=E4405F&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,git,github" />
 </p>
 
+<p align="center">
+🩷 PHP • Laravel • Vue.js • JavaScript • HTML • CSS
+</p>
+
+---
+
+### **Conecte-se comigo**
+
+<p align="center">
+  <a href="https://www.instagram.com/izesstella" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/IzesStella" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IzesStella&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=E4405F&title_color=E4405F"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzesStella&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E4405F"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?
