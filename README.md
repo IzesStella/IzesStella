@@ -30,6 +30,3 @@ Explorando o mundo do desenvolvimento web
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IzesStella&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=E4405F"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IzesStella&theme=tokyonight&hide_border=true&background=0d1117&ring=E4405F&fire=E4405F&currStreakLabel=E4405F" alt="GitHub Streak"/>
-</p>
